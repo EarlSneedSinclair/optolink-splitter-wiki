@@ -22,6 +22,7 @@ _**Use this software at your own risk.**_
 - [System Architecture](#package-system-architecture)
 - [Software Requirements](#file_folder-software-requirements)
 - [Hardware Requirements](#desktop_computerhardware-requirements)
+- [Installation](#hammer_and_wrench-installation)
 - [Smart Home Integration (e.g. Home Assistant)](#house-smart-home-integration-eg-home-assistant)
 - [Questions & Issues](#interrobang-questions--issues)
 - [3D-Printable Case for Raspberry Pi & USB-TTL Adapter](#printer-3d-printable-case-for-raspberry-pi--usb-ttl-adapter)
@@ -61,6 +62,9 @@ _**Use this software at your own risk.**_
   - Recommended: CP2102 chip ([Example](https://www.google.com/search?q=cp2102+usb+ttl)).
   - Some newer Vitoconnect models may work with FTDI chips.
   - **Raspberry Pi UART voltage = 3.3V** → Set jumper accordingly!
+
+## :hammer_and_wrench: Installation
+For detailed information on Installation & Configuration, please visit the [Wiki](Wiki).
 
 ## :house: Smart Home Integration (e.g. Home Assistant)
 Optolink Splitter seamlessly integrates into your smart home setup via **MQTT**, allowing you to monitor and control your Viessmann heating system using platforms like **Home Assistant**, **ioBroker**, or **Node-RED**. All available heating system data can be visualized in dashboards, automated with custom rules, and integrated into broader smart home routines. With Optolink Splitter’s command-sending capability, you can locally adjust heating modes, temperature setpoints, or pump states directly from your favorite smart home system.
