@@ -80,9 +80,14 @@ Below are examples of how this integration looks in different smart home environ
 ### Another Heating System Overview in Home Assistant & Command Buttons
 ![0b87f133-3285-4cb5-871c-87c66598d42d](https://github.com/user-attachments/assets/596c2f3d-24c3-406a-854b-4679ce0643d7)
 
-## :interrobang: Questions & Issues
-- Discussions & contact: [GitHub Discussions](https://github.com/philippoo66/optolink-splitter/discussions)
-- Bug reports: [GitHub Issues](https://github.com/philippoo66/optolink-splitter/issues)
+
+## :interrobang: Questions & Issues  
+
+Before posting a question or reporting an issue, please check the [Wiki](https://github.com/philippoo66/optolink-splitter/wiki) for answers. Many common topics and troubleshooting steps are already covered there.  
+
+- **Discussions & Contact:** [GitHub Discussions](https://github.com/philippoo66/optolink-splitter/discussions)  
+- **Bug Reports:** [GitHub Issues](https://github.com/philippoo66/optolink-splitter/issues)  
+
 
 ## :camera_flash: Additional Images (MQTT, Visualization)
 ### Datapoints in settings_ini.py & MQTT Explorer monitoring
