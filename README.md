@@ -63,7 +63,7 @@ _**Use this software at your own risk.**_
   - **Raspberry Pi UART voltage = 3.3V** → Set jumper accordingly!
 
 ## :hammer_and_wrench: Installation
-For detailed information on Installation & Configuration, please visit the [Wiki](Wiki).
+For detailed information on Installation & Configuration, please visit the [Wiki](https://github.com/EarlSneedSinclair/optolink-splitter/wiki).
 
 ## :house: Smart Home Integration (e.g. Home Assistant)
 Optolink Splitter seamlessly integrates into your smart home setup via **MQTT**, allowing you to monitor and control your Viessmann heating system using platforms like **Home Assistant**, **ioBroker**, or **Node-RED**. All available heating system data can be visualized in dashboards, automated with custom rules, and integrated into broader smart home routines. With Optolink Splitter’s command-sending capability, you can locally adjust heating modes, temperature setpoints, or pump states directly from your favorite smart home system.
